@@ -1,0 +1,8 @@
+一. SQL 大多
+1.  MySQL - PHP, Java
+2.  SQL Server - C#
+
+二. data relationship 
+1.  one to one: 可以放在一个table
+2.  one to many: 在many table 要加 one 的Id（StudentId） 作为一个 field
+3.  many to many: media table 里面有两个table 的 Id 作为一个 field
