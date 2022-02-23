@@ -8,8 +8,10 @@ namespace TT.OOP.Assignment1.Solution
     {
         int Row;
         int Column;
-        public Board()
+        public Board(int row, int column)
         {
+            this.Row = row;
+            Column = column;
 
         }
     }
