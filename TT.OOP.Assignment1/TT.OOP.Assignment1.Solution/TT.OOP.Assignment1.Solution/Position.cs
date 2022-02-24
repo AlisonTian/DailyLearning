@@ -10,7 +10,7 @@ namespace TT.OOP.Assignment1.Solution
        private int Y;
         public Position(int x, int y)
         {
-            this.X = x;
+            X = x;
             Y = y;
         }
     }
